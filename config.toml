@@ -1,5 +1,5 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "https://www.example.com/"
+baseurl = "https://www.wellingtonflorida.tv/"
 languageCode = "en-us"
 title = "My Listing Landing Page"
 theme = "grid-side"
