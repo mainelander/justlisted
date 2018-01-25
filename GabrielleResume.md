@@ -56,7 +56,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 	•	Volunteered weekly for multiple semesters overseeing the educational direction of a group of five to ten students each week. Experiments and Activities related to STEM were taught and completed.
 	•	Involved within FEMMES Mentorship Program- met with a student between 6th and 10th grade for various STEM activities related to their interested as well as connected and built relationships where they were guided and given resources to grow and excel. 
 	•	*FEMMES* Annual Capstone Event- responsible for leading a group of girls to observe keynote speakers who explain their roles in their particular STEM fields and the paths that lead them to those roles, hands- on activity designed and led by other female faculty members, graduate student and STEM undergraduate female organizations. 
-	
+
 ## Leadership Experience & Involvement 
 
 ## Skills
@@ -72,6 +72,6 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYxNzgyOTUsLTE3NjI2MzY0OTVdfQ
+eyJoaXN0b3J5IjpbLTE0NzgxOTE3NTksLTE3NjI2MzY0OTVdfQ
 ==
 -->
