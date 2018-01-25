@@ -38,6 +38,7 @@ Researcher in an interdisciplinary research team that focused on building a Neur
 	•	Previous work included renovation of the standard health curriculum into an Honors version of the ninth grade Healthful Living Course in Wake County, NC. Curriculum built around the mindset that if teenagers understand what is happening in the brain, they will have the power to make healthier choices and invest more in themselves. 
 	•	Format and Design of an online platform where health teachers can learn the new honors health class curriculum and engage in open discourse with each other alongside a neuroscientist from Duke. 
 	•	Results and Future Goals were presented at Duke’s EHDx conference in front of 150+ people
+	
 ## Community Empowerment Fund (CEF)#
 *Development Coordinator and Advocate (Aug. 2017 – Present)*
    Responsible for supporting the development and execution of CEF’s annual fundraising plan, incorporating individual, organizational and institutional contributors.
@@ -66,6 +67,6 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjU4NTkwNSwtMTg0MDc5Mzc4MywtMT
-c2MjYzNjQ5NV19
+eyJoaXN0b3J5IjpbLTIwOTgwMTA1MDMsLTE4NDA3OTM3ODMsLT
+E3NjI2MzY0OTVdfQ==
 -->
