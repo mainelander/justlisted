@@ -40,7 +40,7 @@ Researcher in an interdisciplinary research team that focused on building a Neur
 	•	Format and Design of an online platform where health teachers can learn the new honors health class curriculum and engage in open discourse with each other alongside a neuroscientist from Duke. 
 	•	Results and Future Goals were presented at Duke’s EHDx conference in front of 150+ people
 	
->>>>>## Community Empowerment Fund (CEF)#
+>## Community Empowerment Fund (CEF)#
 *Development Coordinator and Advocate (Aug. 2017 – Present)*
    Responsible for supporting the development and execution of CEF’s annual fundraising plan, incorporating individual, organizational and institutional contributors.
 	•	CEF supports people experiencing homelessness or at-risk of homelessness with the goal in mind to gain employment, secure housing and build financial stability. Advocated work one- on- one with members. 
@@ -70,6 +70,6 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyMDkzMDY1LC0xMzg3ODE0MzM3LC01OT
-k2NzMxOTNdfQ==
+eyJoaXN0b3J5IjpbLTYxODgxNTQ3OSwzOTIwOTMwNjUsLTU5OT
+Y3MzE5M119
 -->
