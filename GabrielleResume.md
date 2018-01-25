@@ -32,19 +32,23 @@ Tutor provided one-on-one and small group instruction for school- age children i
 	     order to teach effectively and meticulously 
 	•	Consistently committed to working in racially and economically diverse communities; motivated and resourceful in ensuring that each student received the highest quality of education that I could provide.  
 >## The Scripps Research Institute | Jupiter, FL | Intern (June 2013- August 2013)
+```
 	•	Kenan Fellow Summer Research Internship: Performed research in the immunology laboratory of Dr. Cameron (chosen as one of fourteen high school students in Palm Beach County  
 	•	Research included Study of Idiosyncratic Drug Reactions of Lapatinib, a chemotherapeutic agent for treatment of metastatic breast cancer  
 	•	Presentation given at the conclusion of the internship to doctoral, post- doctoral and fellow interns of summer research. Only student researcher invited to speak at the Inaugural Science and Technology, Engineering and Mathematics (STEM) Council Meeting sponsored by the School Board of Palm Beach County, Pew Public Education Fund and Quantum 
-
->## Bass Connections: Translating Neuroscience into Education| Researcher (July 2015 – May 2016)
-
+```
+>## Bass Connections: Translating Neuroscience into Education Research (July 2015 – May 2016)
+```
 Researcher in an interdisciplinary research team that focused on building a Neuroscience- Based Health Curriculum for North Carolina Ninth Grade Students. Data collected will be used in assessing the merits of the program within the NC school system.
+```
 	•	Previous work included renovation of the standard health curriculum into an Honors version of the ninth grade Healthful Living Course in Wake County, NC. Curriculum built around the mindset that if teenagers understand what is happening in the brain, they will have the power to make healthier choices and invest more in themselves. 
 	•	Format and Design of an online platform where health teachers can learn the new honors health class curriculum and engage in open discourse with each other alongside a neuroscientist from Duke. 
 	•	Results and Future Goals were presented at Duke’s EHDx conference in front of 150+ people
 	
 >## Community Empowerment Fund (CEF)#
+```
 *Development Coordinator and Advocate (Aug. 2017 – Present)*
+```
 Responsible for supporting the development and execution of CEF’s annual fundraising plan, incorporating individual, organizational and institutional contributors.
 	•	CEF supports people experiencing homelessness or at-risk of
 	    homelessness with the goal in mind to gain employment,
@@ -79,7 +83,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjAxNjA3NCw2MDc1NTA4MzcsLTE5Nz
-g5MzI5MDUsLTE5Nzg5MzI5MDUsLTE5Nzg5MzI5MDUsLTg0MzU4
-ODkwN119
+eyJoaXN0b3J5IjpbLTEzNjYyNjI1NjcsNjA3NTUwODM3LC0xOT
+c4OTMyOTA1LC0xOTc4OTMyOTA1LC0xOTc4OTMyOTA1LC04NDM1
+ODg5MDddfQ==
 -->
