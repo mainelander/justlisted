@@ -47,6 +47,7 @@ Researcher in an interdisciplinary research team that focused on building a Neur
 
 ## Leadership Experience & Involvement 
 ### Females Excelling More in Math, Engineering, and Science (FEMMES) # 
+
 *Mentor and Member (Aug. 2014 – May 2017)*
 FEMMES is a student-led organization at Duke University that hosts educational outreach programs related to math, science, and engineering for 4th-6th grade girls in Durham, North Carolina.
 	•	Volunteered weekly for multiple semesters overseeing the educational direction of a group of five to ten students each week. Experiments and Activities related to STEM were taught and completed.
@@ -67,6 +68,6 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3NTcxMTYxLDEzMDA0MDYxOTUsLTE4ND
+eyJoaXN0b3J5IjpbMTU4NDQ5ODk5LDEzMDA0MDYxOTUsLTE4ND
 A3OTM3ODMsLTE3NjI2MzY0OTVdfQ==
 -->
