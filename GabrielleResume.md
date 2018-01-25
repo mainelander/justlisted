@@ -1,6 +1,9 @@
 # Gabrielle S. Graham
 
 ## Education  
+
+> Blockquote
+
 Duke University, Trinity College of Arts & Sciences| Durham, NC 	
 Candidate for B.S. in Neuroscience, Minor in Education (Aug. 2014 – May 2018)
 
@@ -69,6 +72,6 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODk5NzgwNSwxMzYzODg3Njk1LDY2Nz
-AwMDA5LC0xMDM3NjQzLC0xMzcxNTQxMTEzXX0=
+eyJoaXN0b3J5IjpbNTc2MjQ1ODY4LDEzNjM4ODc2OTUsNjY3MD
+AwMDksLTEwMzc2NDMsLTEzNzE1NDExMTNdfQ==
 -->
