@@ -11,24 +11,18 @@ Sociology Lab | Research Assistant/ Sociological Coder
 July. 2015 – December 2015
 ```
 Analyzed stereotypes of working class, blue collared individuals through coding of written narratives by a number of participants 
-	•	Purpose of the study is to observe which statements were more likely to be
-	 	kept in participants’ retold version of the narratives, dropped from participants’
-	 	retold version and/or added to participants’ retold versions. 
-	•	Tasked to reach each of the participants’ retold version of the narrative and
-	    code whether or not each statement from the original narrative is included or
-	    not in addition to looking for any new information added by participants in their
-	    retold story. 
-	•	Constant collaboration with group brought compromise on altering perspectives
-	    as well as discussion on why we thought this way and why our response could
-	    appear as correct 
-	•	Group work evoked leadership as well as team work. 
+	•	Purpose of the study is to observe which statements were more likely to be kept in participants’ retold version of the narratives, dropped from participants’ retold version and/or added to participants’ retold versions. 
+	•	Tasked to reach each of the participants’ retold version of the narrative and narrative is included or not in addition to looking for any new information added by participants in their retold story. 
+	•	Constant collaboration with group brought compromise on altering perspectives as well as discussion on why we thought this way and why our response could appear as correct 
+	•	Group work evoked leadership as well as team work.
+	
 >## America Reads America Counts (ARAC) | Durham,  NC | 
 ```
 Tutor (January 2016-May 2017)
 ```
 Tutor provided one-on-one and small group instruction for school- age children in Durham in order to increase the reading and writing proficiency and mathematical skills of children. 
 	•	Trained in connection with the Duke Community Service Center and Worked as
-	     Tutors within the Durham Community: Applied a myriad of educational skills in
+Tutors within the Durham Community: Applied a myriad of educational skills in
 	     order to teach effectively and meticulously 
 	•	Consistently committed to working in racially and economically diverse communities; motivated and resourceful in ensuring that each student received the highest quality of education that I could provide.  
 >## The Scripps Research Institute | Jupiter, FL | Intern (June 2013- August 2013)
@@ -86,7 +80,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQxNTM1OTUsNjA3NTUwODM3LC0xOT
-c4OTMyOTA1LC0xOTc4OTMyOTA1LC0xOTc4OTMyOTA1LC04NDM1
-ODg5MDddfQ==
+eyJoaXN0b3J5IjpbMTAxODQ0Mjg1Nyw2MDc1NTA4MzcsLTE5Nz
+g5MzI5MDUsLTE5Nzg5MzI5MDUsLTE5Nzg5MzI5MDUsLTg0MzU4
+ODkwN119
 -->
