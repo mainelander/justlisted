@@ -6,9 +6,10 @@ Duke University, Trinity College of Arts & Sciences| Durham, NC
 Candidate for B.S. in Neuroscience, Minor in Education (Aug. 2014 – May 2018)
 
 >## Work Experience  
+```
 Sociology Lab | Research Assistant/ Sociological Coder
 July. 2015 – December 2015
-
+```
 Analyzed stereotypes of working class, blue collared individuals through coding of written narratives by a number of participants 
 	•	Purpose of the study is to observe which statements were more likely to be
 	 	kept in participants’ retold version of the narratives, dropped from participants’
@@ -23,7 +24,7 @@ Analyzed stereotypes of working class, blue collared individuals through coding 
 	•	Group work evoked leadership as well as team work. 
 >## America Reads America Counts (ARAC) | Durham,     	NC | Tutor (January 2016-May 2017)
 
-Tutor provided one-on-one and small group instruction for school- age children in Durham in order to increase the reading and writing proficiency and mathematical skills of children. 
+```Tutor provided one-on-one and small group instruction for school- age children in Durham in order to increase the reading and writing proficiency and mathematical skills of children. 
 	•	Trained in connection with the Duke Community Service Center and Worked as
 	     Tutors within the Durham Community: Applied a myriad of educational skills in
 	     order to teach effectively and meticulously 
@@ -76,7 +77,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMzNDA0MjUsNjA3NTUwODM3LC0xOT
-c4OTMyOTA1LC0xOTc4OTMyOTA1LC0xOTc4OTMyOTA1LC04NDM1
-ODg5MDddfQ==
+eyJoaXN0b3J5IjpbNzA3MjgxNDI1LDYwNzU1MDgzNywtMTk3OD
+kzMjkwNSwtMTk3ODkzMjkwNSwtMTk3ODkzMjkwNSwtODQzNTg4
+OTA3XX0=
 -->
