@@ -47,7 +47,9 @@ Responsible for supporting the development and execution of CEF’s annual fundr
 	    homelessness with the goal in mind to gain employment,
 	    secure housing and build financial stability. Advocated work
 	    one- on- one with members. 
-	•	Work collaboratively to secure financial support from individuals, foundations and corporations, Assist in development and tracking of proposals, Grant- writing, Networking with local businesses to connect with CEF
+	•	Work collaboratively to secure financial support from
+	    individuals, foundations and corporations, Assist in
+	    development and tracking of proposals, Grant-writing, Networking with local businesses to connect with CEF
 
 >## Leadership Experience & Involvement
  
@@ -73,7 +75,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxMDk2MDEsNjA3NTUwODM3LC0xOTc4OT
-MyOTA1LC0xOTc4OTMyOTA1LC0xOTc4OTMyOTA1LC04NDM1ODg5
-MDddfQ==
+eyJoaXN0b3J5IjpbLTE4NzAyMjYyODMsNjA3NTUwODM3LC0xOT
+c4OTMyOTA1LC0xOTc4OTMyOTA1LC0xOTc4OTMyOTA1LC04NDM1
+ODg5MDddfQ==
 -->
