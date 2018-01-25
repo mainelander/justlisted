@@ -59,10 +59,10 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 **Skills:**
  Proficient in Microsoft Word, Excel, and Photoshop; Data Collection and Analysis Experience
 **Interest and Hobbies:** 
-Violin—performed at Carnegie Hall and Chicago Symphony Hall; 
-Travel; Spanish; Visual Media 
+Violin—performed at Carnegie Hall and Chicago Symphony Hall;
+Travel; Visual Media 
 **Other Languages Spoken**: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzY4Mjc0XX0=
+eyJoaXN0b3J5IjpbMTI0ODA1MDE4MV19
 -->
