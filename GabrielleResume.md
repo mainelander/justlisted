@@ -53,7 +53,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 	•	*FEMMES* Annual Capstone Event- responsible for leading a group of girls to observe keynote speakers who explain their roles in their particular STEM fields and the paths that lead them to those roles, hands- on activity designed and led by other female faculty members, graduate student and STEM undergraduate female organizations. 
 
 ## Leadership Experience & Involvement 
-
+idhewuh3uh3uhruru3r3
 ## Skills
 
 -- Data Collection and Analysis Experience
@@ -62,11 +62,12 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Interest and Hobbies
 -- Violin: performed at Carnegie Hall and Chicago Symphony Hall
 -- Travel: Spain/ South Africa/ France/ Switzerland/ Mexico/ et al
--- Visual Media 
+-- Visual Media & Soccer
+
 
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTgwMTA1MDMsMTMwMDQwNjE5NSwtMT
+eyJoaXN0b3J5IjpbLTEyOTY4OTI5MjAsMTMwMDQwNjE5NSwtMT
 g0MDc5Mzc4MywtMTc2MjYzNjQ5NV19
 -->
