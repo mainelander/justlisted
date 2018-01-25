@@ -10,6 +10,8 @@ Candidate for B.S. in Neuroscience, Minor in Education (Aug. 2014 – May 2018)
 Sociology Lab | Research Assistant/ Sociological Coder
 July. 2015 – December 2015
 
+> Blockquote
+
 Analyzed stereotypes of working class, blue collared individuals through coding of written narratives by a number of participants  
 	•	Purpose of the study is to observe which statements were more likely to be
 	 	kept in participants’ retold version of the narratives, dropped from participants’
@@ -71,5 +73,5 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 **Languages Minor**: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDkzNTY4NF19
+eyJoaXN0b3J5IjpbLTE2MDIyOTM4MzldfQ==
 -->
