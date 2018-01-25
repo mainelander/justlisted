@@ -52,7 +52,7 @@ Responsible for supporting the development and execution of CEF’s annual fundr
 	    development and tracking of proposals, Grant-writing,
 	    Networking with local businesses to connect with CEF
 
->## Leadership Experience & Involvement>
+>## Leadership Experience & Involvement
  
 ### Females Excelling More in Math, Engineering, and Science (FEMMES) # 
 
@@ -76,7 +76,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2NjUzMDY1LDYwNzU1MDgzNywtMTk3OD
-kzMjkwNSwtMTk3ODkzMjkwNSwtMTk3ODkzMjkwNSwtODQzNTg4
-OTA3XX0=
+eyJoaXN0b3J5IjpbLTEzMTMzNDA0MjUsNjA3NTUwODM3LC0xOT
+c4OTMyOTA1LC0xOTc4OTMyOTA1LC0xOTc4OTMyOTA1LC04NDM1
+ODg5MDddfQ==
 -->
