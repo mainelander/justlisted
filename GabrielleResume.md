@@ -21,8 +21,7 @@ Analyzed stereotypes of working class, blue collared individuals through coding 
 	    as well as discussion on why we thought this way and why our response could
 	    appear as correct 
 	•	Group work evoked leadership as well as team work. 
-## America Reads America Counts (ARAC) | Durham,
-     	NC | Tutor (January 2016-May 2017)
+## America Reads America Counts (ARAC) | Durham,     	NC | Tutor (January 2016-May 2017)
 
 Tutor provided one-on-one and small group instruction for school- age children in Durham in order to increase the reading and writing proficiency and mathematical skills of children. 
 	•	Trained in connection with the Duke Community Service Center and Worked as
@@ -71,5 +70,6 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDA4NDI0OSwtMTM2OTgzMTQ4MV19
+eyJoaXN0b3J5IjpbLTEzNjk4MzE0ODEsLTEzNjk4MzE0ODFdfQ
+==
 -->
