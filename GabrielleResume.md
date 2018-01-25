@@ -31,7 +31,7 @@ Tutor provided one-on-one and small group instruction for school- age children i
 	     Tutors within the Durham Community: Applied a myriad of educational skills in
 	     order to teach effectively and meticulously 
 	•	Consistently committed to working in racially and economically diverse communities; motivated and resourceful in ensuring that each student received the highest quality of education that I could provide.  
-## The Scripps Research Institute | Jupiter, FL | Intern (June 2013- August 2013)
+>## The Scripps Research Institute | Jupiter, FL | Intern (June 2013- August 2013)
 	•	Kenan Fellow Summer Research Internship: Performed research in the immunology laboratory of Dr. Cameron (chosen as one of fourteen high school students in Palm Beach County  
 	•	Research included Study of Idiosyncratic Drug Reactions of Lapatinib, a chemotherapeutic agent for treatment of metastatic breast cancer  
 	•	Presentation given at the conclusion of the internship to doctoral, post- doctoral and fellow interns of summer research. Only student researcher invited to speak at the Inaugural Science and Technology, Engineering and Mathematics (STEM) Council Meeting sponsored by the School Board of Palm Beach County, Pew Public Education Fund and Quantum 
@@ -79,7 +79,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI3MDQyMDQsNjA3NTUwODM3LC0xOT
-c4OTMyOTA1LC0xOTc4OTMyOTA1LC0xOTc4OTMyOTA1LC04NDM1
-ODg5MDddfQ==
+eyJoaXN0b3J5IjpbLTc3NjAxNjA3NCw2MDc1NTA4MzcsLTE5Nz
+g5MzI5MDUsLTE5Nzg5MzI5MDUsLTE5Nzg5MzI5MDUsLTg0MzU4
+ODkwN119
 -->
