@@ -67,8 +67,8 @@ FEMMES is a student-led organization at Duke University that hosts educational o
  - Travel - Spain/ South Africa/ France/ Switzerland/ Mexico
  - Visual Media 
 
-**Other Languages Spoken**: Spanish
+**Languages Minor**: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDAwMTk1XX0=
+eyJoaXN0b3J5IjpbLTE2NjEzMDk4OTBdfQ==
 -->
