@@ -32,7 +32,6 @@ The Scripps Research Institute | Jupiter, FL | Intern         			               
 	•	Research included Study of Idiosyncratic Drug Reactions of Lapatinib, a chemotherapeutic agent for treatment of metastatic breast cancer  
 	•	Presentation given at the conclusion of the internship to doctoral, post- doctoral and fellow interns of summer research. Only student researcher invited to speak at the Inaugural Science and Technology, Engineering and Mathematics (STEM) Council Meeting sponsored by the School Board of Palm Beach County, Pew Public Education Fund and Quantum 
 
-## Leadership Experience & Involvement 
 ## Bass Connections: Translating Neuroscience into Education| Researcher (July 2015 – May 2016)
 
 Researcher in an interdisciplinary research team that focused on building a Neuroscience- Based Health Curriculum for North Carolina Ninth Grade Students. Data collected will be used in assessing the merits of the program within the NC school system.
@@ -57,7 +56,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 	•	Volunteered weekly for multiple semesters overseeing the educational direction of a group of five to ten students each week. Experiments and Activities related to STEM were taught and completed.
 	•	Involved within FEMMES Mentorship Program- met with a student between 6th and 10th grade for various STEM activities related to their interested as well as connected and built relationships where they were guided and given resources to grow and excel. 
 	•	*FEMMES* Annual Capstone Event- responsible for leading a group of girls to observe keynote speakers who explain their roles in their particular STEM fields and the paths that lead them to those roles, hands- on activity designed and led by other female faculty members, graduate student and STEM undergraduate female organizations. 
-	 
+ 
 ## Skills
 
 -- Data Collection and Analysis Experience
@@ -71,5 +70,5 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTY3MjM5NV19
+eyJoaXN0b3J5IjpbLTk5Mjg2NjUxN119
 -->
