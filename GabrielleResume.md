@@ -45,7 +45,7 @@ Researcher in an interdisciplinary research team that focused on building a Neur
    contributors.
 	•	CEF supports people experiencing homelessness or at-risk of homelessness
 	    with the goal in mind to gain employment, secure housing and build financial
-	    stability. Advocated work one- on- one with members. 
+stability. Advocated work one- on- one with members. 
 	•	Work collaboratively to secure financial support from individuals, foundations and corporations, Assist in development and tracking of proposals, Grant- writing, Networking with local businesses to connect with CEF
 	     
 ## Females Excelling More in Math, Engineering, and Science (FEMMES) # 
@@ -70,5 +70,6 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjkxNTY2MywtMTc2MjYzNjQ5NV19
+eyJoaXN0b3J5IjpbLTE4NDA3OTM3ODMsLTg3NjkxNTY2MywtMT
+c2MjYzNjQ5NV19
 -->
