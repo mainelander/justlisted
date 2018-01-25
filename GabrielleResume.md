@@ -9,7 +9,7 @@ Candidate for B.S. in Neuroscience, Minor in Education (Aug. 2014 – May 2018)
 Sociology Lab | Research Assistant/ Sociological Coder
 July. 2015 – December 2015
 
-Analyzed stereotypes of working class, blue collared individuals through coding of written narratives by a number of participants 
+.Analyzed stereotypes of working class, blue collared individuals through coding of written narratives by a number of participants 
 	•	Purpose of the study is to observe which statements were more likely to be
 	 	kept in participants’ retold version of the narratives, dropped from participants’
 	 	retold version and/or added to participants’ retold versions. 
@@ -70,5 +70,5 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODgxNTQ3OV19
+eyJoaXN0b3J5IjpbLTE5MjU1OTI0NzNdfQ==
 -->
