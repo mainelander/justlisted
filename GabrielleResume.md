@@ -33,7 +33,7 @@ The Scripps Research Institute | Jupiter, FL | Intern         			               
 	•	Presentation given at the conclusion of the internship to doctoral, post- doctoral and fellow interns of summer research. Only student researcher invited to speak at the Inaugural Science and Technology, Engineering and Mathematics (STEM) Council Meeting sponsored by the School Board of Palm Beach County, Pew Public Education Fund and Quantum 
 
 ## Leadership Experience & Involvement 
-Bass Connections: Translating Neuroscience into Education| Researcher (July 2015 – May 2016)
+## Bass Connections: Translating Neuroscience into Education| Researcher (July 2015 – May 2016)
 
 Researcher in an interdisciplinary research team that focused on building a Neuroscience- Based Health Curriculum for North Carolina Ninth Grade Students. Data collected will be used in assessing the merits of the program within the NC school system.
 	•	Previous work included renovation of the standard health curriculum into an Honors version of the ninth grade Healthful Living Course in Wake County, NC. Curriculum built around the mindset that if teenagers understand what is happening in the brain, they will have the power to make healthier choices and invest more in themselves. 
@@ -71,5 +71,5 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNDg3OTgzXX0=
+eyJoaXN0b3J5IjpbLTYxNTY3MjM5NV19
 -->
