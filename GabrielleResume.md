@@ -59,7 +59,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 	 
 ## Skills
 
- - Data Collection and Analysis Experience 
+ -- Data Collection and Analysis Experience 
  - Proficient in Microsoft Word/Excel, and Adobe Photoshop
  
 ## Interest and Hobbies
@@ -70,5 +70,5 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzcwMDE3NCwtODQ3OTI2NTA0XX0=
+eyJoaXN0b3J5IjpbLTEzNDU4OTYwOTcsLTg0NzkyNjUwNF19
 -->
