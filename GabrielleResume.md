@@ -1,8 +1,7 @@
 # Gabrielle S. Graham
 
-# Education
+## Education
 
-	  	       
 Duke University, Trinity College of Arts & Sciences| Durham, NC 	
 Candidate for B.S. in Neuroscience, Minor in Education (Aug. 2014 – May 2018)
 
@@ -33,13 +32,13 @@ The Scripps Research Institute | Jupiter, FL | Intern         			               
 	•	Research included Study of Idiosyncratic Drug Reactions of Lapatinib, a chemotherapeutic agent for treatment of metastatic breast cancer  
 	•	Presentation given at the conclusion of the internship to doctoral, post- doctoral and fellow interns of summer research. Only student researcher invited to speak at the Inaugural Science and Technology, Engineering and Mathematics (STEM) Council Meeting sponsored by the School Board of Palm Beach County, Pew Public Education Fund and Quantum 
 
-# Leadership Experience & Involvement 
+## Leadership Experience & Involvement 
 Bass Connections: Translating Neuroscience into Education| Researcher 	July 2015 – May 2016
 Undergraduate researcher in an interdisciplinary research team that focused on building a Neuroscience- Based Health Curriculum for North Carolina Ninth Grade Students. Data collected will be used in assessing the merits of the program within the NC school system.
 	•	Previous work included renovation of the standard health curriculum into an Honors version of the ninth grade Healthful Living Course in Wake County, NC. Curriculum built around the mindset that if teenagers understand what is happening in the brain, they will have the power to make healthier choices and invest more in themselves. 
 	•	Format and Design of an online platform where health teachers can learn the new honors health class curriculum and engage in open discourse with each other alongside a neuroscientist from Duke. 
 	•	Results and Future Goals were presented at Duke’s EHDx conference in front of 150+ people
-# Community Empowerment Fund (CEF)#
+## Community Empowerment Fund (CEF)#
 *Development Coordinator and Advocate (Aug. 2017 – Present)*
    Responsible for supporting the development and execution of CEF’s annual
    fundraising plan, incorporating individual, organizational and institutional
@@ -51,7 +50,7 @@ Undergraduate researcher in an interdisciplinary research team that focused on b
 	    and corporations, Assist in development and tracking of proposals, 
 	    Grant- writing, Networking with local businesses to connect with CEF
 	     
-# Females Excelling More in Math, Engineering, and Science (FEMMES) # 
+## Females Excelling More in Math, Engineering, and Science (FEMMES) # 
 *Mentor and Member (Aug. 2014 – May 2017)*
 FEMMES is a student-led organization at Duke University that hosts educational outreach programs related to math, science, and engineering for 4th-6th grade girls in Durham.
 	•	Volunteered weekly for multiple semesters overseeing the educational direction of a group of five to ten students each week. Experiments and Activities related to STEM were taught and completed.
@@ -71,5 +70,5 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 **Languages Minor**: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ5MzYwNjddfQ==
+eyJoaXN0b3J5IjpbLTE1ODYzNTY3OTFdfQ==
 -->
