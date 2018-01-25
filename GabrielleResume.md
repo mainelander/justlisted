@@ -34,7 +34,14 @@ The Scripps Research Institute | Jupiter, FL | Intern         			               
 
 ## Bass Connections: Translating Neuroscience into Education| Researcher (July 2015 – May 2016)
 
-Researcher in an interdisciplinary research team that focused on building a Neuroscience- Based Health Curriculum for North Carolina Ninth Grade Students. Data collected will be used in assessing the merits of the program within the NC school system.
+Researcher
+
+> Blockquote
+
+ in an interdisciplinary research team that focused on building a Neuroscience- Based Health Curriculum for North Carolina Ninth Grade Students. Data collected will be used in assessing the merits of the program within the NC school system.
+
+> Blockquote
+
 	•	Previous work included renovation of the standard health curriculum into an Honors version of the ninth grade Healthful Living Course in Wake County, NC. Curriculum built around the mindset that if teenagers understand what is happening in the brain, they will have the power to make healthier choices and invest more in themselves. 
 	•	Format and Design of an online platform where health teachers can learn the new honors health class curriculum and engage in open discourse with each other alongside a neuroscientist from Duke. 
 	•	Results and Future Goals were presented at Duke’s EHDx conference in front of 150+ people
@@ -67,6 +74,6 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTgwMTA1MDMsMTMwMDQwNjE5NSwtMT
-g0MDc5Mzc4MywtMTc2MjYzNjQ5NV19
+eyJoaXN0b3J5IjpbOTI5NTAwNTA1LDEzMDA0MDYxOTUsLTE4ND
+A3OTM3ODMsLTE3NjI2MzY0OTVdfQ==
 -->
