@@ -42,7 +42,7 @@ Researcher in an interdisciplinary research team that focused on building a Neur
 	
 >## Community Empowerment Fund (CEF)#
 *Development Coordinator and Advocate (Aug. 2017 – Present)*
-[xxxxxx]   Responsible for supporting the development and execution of CEF’s annual fundraising plan, incorporating individual, organizational and institutional contributors.
+[x]   Responsible for supporting the development and execution of CEF’s annual fundraising plan, incorporating individual, organizational and institutional contributors.
 	•	CEF supports people experiencing homelessness or at-risk of homelessness with the goal in mind to gain employment, secure housing and build financial stability. Advocated work one- on- one with members. 
 	•	Work collaboratively to secure financial support from individuals, foundations and corporations, Assist in development and tracking of proposals, Grant- writing, Networking with local businesses to connect with CEF
 
@@ -70,5 +70,5 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4Nzg1OTYzLC04NDM1ODg5MDddfQ==
+eyJoaXN0b3J5IjpbLTE2OTQxOTQzNDcsLTg0MzU4ODkwN119
 -->
