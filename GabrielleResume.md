@@ -70,7 +70,5 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODgxNTQ3OSwtNjIxNTIyNjk5LDUyMT
-MwMDcyMSwxMzYzODg3Njk1LDY2NzAwMDA5LC0xMDM3NjQzLC0x
-MzcxNTQxMTEzXX0=
+eyJoaXN0b3J5IjpbLTYxODgxNTQ3OV19
 -->
