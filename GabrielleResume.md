@@ -47,8 +47,7 @@ Researcher in an interdisciplinary research team that focused on building a Neur
 	    with the goal in mind to gain employment, secure housing and build financial
 	    stability. Advocated work one- on- one with members. 
 	•	Work collaboratively to secure financial support from individuals, foundations
-	    and corporations, Assist in development and tracking of proposals, 
-	    Grant- writing, Networking with local businesses to connect with CEF
+	    and corporations, Assist in development and tracking of proposals, Grant- writing, Networking with local businesses to connect with CEF
 	     
 ## Females Excelling More in Math, Engineering, and Science (FEMMES) # 
 *Mentor and Member (Aug. 2014 – May 2017)*
@@ -72,6 +71,5 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzgxOTE3NTksLTE3NjI2MzY0OTVdfQ
-==
+eyJoaXN0b3J5IjpbNDg5NjAyMTM5LC0xNzYyNjM2NDk1XX0=
 -->
