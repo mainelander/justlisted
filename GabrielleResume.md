@@ -44,15 +44,14 @@ Researcher in an interdisciplinary research team that focused on building a Neur
    Responsible for supporting the development and execution of CEF’s annual fundraising plan, incorporating individual, organizational and institutional contributors.
 	•	CEF supports people experiencing homelessness or at-risk of homelessness with the goal in mind to gain employment, secure housing and build financial stability. Advocated work one- on- one with members. 
 	•	Work collaboratively to secure financial support from individuals, foundations and corporations, Assist in development and tracking of proposals, Grant- writing, Networking with local businesses to connect with CEF
-	     
-## Females Excelling More in Math, Engineering, and Science (FEMMES) # 
+
+## Leadership Experience & Involvement 
+### Females Excelling More in Math, Engineering, and Science (FEMMES) # 
 *Mentor and Member (Aug. 2014 – May 2017)*
-FEMMES is a student-led organization at Duke University that hosts educational outreach programs related to math, science, and engineering for 4th-6th grade girls in Durham.
+FEMMES is a student-led organization at Duke University that hosts educational outreach programs related to math, science, and engineering for 4th-6th grade girls in Durham, North Carolina.
 	•	Volunteered weekly for multiple semesters overseeing the educational direction of a group of five to ten students each week. Experiments and Activities related to STEM were taught and completed.
 	•	Involved within FEMMES Mentorship Program- met with a student between 6th and 10th grade for various STEM activities related to their interested as well as connected and built relationships where they were guided and given resources to grow and excel. 
 	•	*FEMMES* Annual Capstone Event- responsible for leading a group of girls to observe keynote speakers who explain their roles in their particular STEM fields and the paths that lead them to those roles, hands- on activity designed and led by other female faculty members, graduate student and STEM undergraduate female organizations. 
-
-## Leadership Experience & Involvement 
 
 ## Skills
 
@@ -68,6 +67,6 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTg1MzgyOCwxMzAwNDA2MTk1LC0xOD
-QwNzkzNzgzLC0xNzYyNjM2NDk1XX0=
+eyJoaXN0b3J5IjpbOTk3NTcxMTYxLDEzMDA0MDYxOTUsLTE4ND
+A3OTM3ODMsLTE3NjI2MzY0OTVdfQ==
 -->
