@@ -21,8 +21,7 @@ Analyzed stereotypes of working class, blue collared individuals through coding 
 Tutor (January 2016-May 2017)
 ```
 Tutor provided one-on-one and small group instruction for school- age children in Durham in order to increase the reading and writing proficiency and mathematical skills of children. 
-	•	Trained in connection with the Duke Community Service Center and Worked as
-Tutors within the Durham Community: Applied a myriad of educational skills in
+	•	Trained in connection with the Duke Community Service Center and Worked asTutors within the Durham Community: Applied a myriad of educational skills in
 	     order to teach effectively and meticulously 
 	•	Consistently committed to working in racially and economically diverse communities; motivated and resourceful in ensuring that each student received the highest quality of education that I could provide.  
 >## The Scripps Research Institute | Jupiter, FL | Intern (June 2013- August 2013)
@@ -80,7 +79,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODQ0Mjg1Nyw2MDc1NTA4MzcsLTE5Nz
+eyJoaXN0b3J5IjpbLTE2MDUzNDkxNyw2MDc1NTA4MzcsLTE5Nz
 g5MzI5MDUsLTE5Nzg5MzI5MDUsLTE5Nzg5MzI5MDUsLTg0MzU4
 ODkwN119
 -->
