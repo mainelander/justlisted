@@ -22,14 +22,16 @@ Analyzed stereotypes of working class, blue collared individuals through coding 
 	    as well as discussion on why we thought this way and why our response could
 	    appear as correct 
 	•	Group work evoked leadership as well as team work. 
->## America Reads America Counts (ARAC) | Durham,     	NC | Tutor (January 2016-May 2017)
-
-```Tutor provided one-on-one and small group instruction for school- age children in Durham in order to increase the reading and writing proficiency and mathematical skills of children. 
+>## America Reads America Counts (ARAC) | Durham,  NC | 
+```
+Tutor (January 2016-May 2017)
+```
+Tutor provided one-on-one and small group instruction for school- age children in Durham in order to increase the reading and writing proficiency and mathematical skills of children. 
 	•	Trained in connection with the Duke Community Service Center and Worked as
 	     Tutors within the Durham Community: Applied a myriad of educational skills in
 	     order to teach effectively and meticulously 
 	•	Consistently committed to working in racially and economically diverse communities; motivated and resourceful in ensuring that each student received the highest quality of education that I could provide.  
-The Scripps Research Institute | Jupiter, FL | Intern         			                                  June 2013- August 2013
+## The Scripps Research Institute | Jupiter, FL | Intern (June 2013- August 2013)
 	•	Kenan Fellow Summer Research Internship: Performed research in the immunology laboratory of Dr. Cameron (chosen as one of fourteen high school students in Palm Beach County  
 	•	Research included Study of Idiosyncratic Drug Reactions of Lapatinib, a chemotherapeutic agent for treatment of metastatic breast cancer  
 	•	Presentation given at the conclusion of the internship to doctoral, post- doctoral and fellow interns of summer research. Only student researcher invited to speak at the Inaugural Science and Technology, Engineering and Mathematics (STEM) Council Meeting sponsored by the School Board of Palm Beach County, Pew Public Education Fund and Quantum 
@@ -77,7 +79,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 >## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3MjgxNDI1LDYwNzU1MDgzNywtMTk3OD
-kzMjkwNSwtMTk3ODkzMjkwNSwtMTk3ODkzMjkwNSwtODQzNTg4
-OTA3XX0=
+eyJoaXN0b3J5IjpbLTE1NzI3MDQyMDQsNjA3NTUwODM3LC0xOT
+c4OTMyOTA1LC0xOTc4OTMyOTA1LC0xOTc4OTMyOTA1LC04NDM1
+ODg5MDddfQ==
 -->
