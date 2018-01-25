@@ -1,6 +1,6 @@
 # Gabrielle S. Graham
 
-## Education
+# Education
 
 	  	       
 Duke University, Trinity College of Arts & Sciences| Durham, NC 	
@@ -9,8 +9,6 @@ Candidate for B.S. in Neuroscience, Minor in Education (Aug. 2014 – May 2018)
 ## Work Experience
 Sociology Lab | Research Assistant/ Sociological Coder
 July. 2015 – December 2015
-
-> Blockquote
 
 Analyzed stereotypes of working class, blue collared individuals through coding of written narratives by a number of participants  
 	•	Purpose of the study is to observe which statements were more likely to be
@@ -73,5 +71,5 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 **Languages Minor**: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDIyOTM4MzldfQ==
+eyJoaXN0b3J5IjpbLTExODQ5MzYwNjddfQ==
 -->
