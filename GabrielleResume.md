@@ -5,7 +5,6 @@
 > Duke University, Trinity College of Arts & Sciences| Durham, NC 	
 Candidate for B.S. in Neuroscience, Minor in Education (Aug. 2014 – May 2018)
 
-
 ## Work Experience  
 Sociology Lab | Research Assistant/ Sociological Coder
 July. 2015 – December 2015
@@ -71,7 +70,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMzAwNzIxLC04MDE5NjMwNTEsMTM2Mz
-g4NzY5NSw2NjcwMDAwOSwtMTAzNzY0MywtMTM3MTU0MTExM119
+eyJoaXN0b3J5IjpbLTY2NjcyNjA5LDUyMTMwMDcyMSwxMzYzOD
+g3Njk1LDY2NzAwMDA5LC0xMDM3NjQzLC0xMzcxNTQxMTEzXX0=
 
 -->
