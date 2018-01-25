@@ -2,7 +2,7 @@
 
 ## Education  
 
-> Duke University, Trinity College of Arts & Sciences| Durham, NC 	
+Duke University, Trinity College of Arts & Sciences| Durham, NC 	
 Candidate for B.S. in Neuroscience, Minor in Education (Aug. 2014 – May 2018)
 
 ## Work Experience  
@@ -70,7 +70,7 @@ FEMMES is a student-led organization at Duke University that hosts educational o
 ## Language Minor: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjcyNjA5LDUyMTMwMDcyMSwxMzYzOD
+eyJoaXN0b3J5IjpbMjI1MDY3NTg1LDUyMTMwMDcyMSwxMzYzOD
 g3Njk1LDY2NzAwMDA5LC0xMDM3NjQzLC0xMzcxNTQxMTEzXX0=
 
 -->
