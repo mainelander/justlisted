@@ -64,11 +64,11 @@ FEMMES is a student-led organization at Duke University that hosts educational o
  
 **Interest and Hobbies:** 
  - Violin—performed at Carnegie Hall and Chicago Symphony Hall;
- - Travel - Spain/ South Africa/ France/ Switzerland/ Mexico
+ - Travel - Spain/ South Africa/ France/ Switzerland/ Mexico/ et al
  - Visual Media 
 
 **Languages Minor**: Spanish
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjEzMDk4OTBdfQ==
+eyJoaXN0b3J5IjpbNDE2MDQ4MzY1XX0=
 -->
